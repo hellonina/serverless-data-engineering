@@ -7,6 +7,7 @@ This data engineering pipleline was built for IDS 706 final project. The goal of
 
 
 ## Walk-through
+* [![Youtube Video](https://img.youtube.com/vi/dmrHw6i0A9U/hqdefault.jpg)](https://youtu.be/dmrHw6i0A9U)
 * [Python Code](https://github.com/hellonina/serverless-data-engineering/blob/main/serverless-data-engineering.ipynb)
 
 
