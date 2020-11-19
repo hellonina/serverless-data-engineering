@@ -8,7 +8,7 @@ This data engineering pipleline was built for IDS 706 final project. The goal of
 
 ## Walk-through
 * [Python Code](https://github.com/hellonina/serverless-data-engineering/blob/main/serverless-data-engineering.ipynb)
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dmrHw6i0A9U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusion
 The sentiment of 24 names were analyzed with AWS Comprehend. As a result, all 24 names, regardless of its traditional gender associations, were found to have a neutral sentiment with almost 0.99 confidence. We recognized that if the corpus captured more opinions instead of definitions and origins the results might reflect cultural and social sentiment associated with each names. 
