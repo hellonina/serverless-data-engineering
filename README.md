@@ -7,8 +7,8 @@
 This data engineering pipleline was built for IDS 706 final project. The goal of this project is to build serverless data pipeline with Amazon Web Services, and ultimately perform a sentiment analysis with wikipedia corpus to find out gender inequality in English language. A number of AWS services were used in this pipeline: SQS, Lambda, S3, Comprehend and CloudWatch. 
 
 
-## Sentiment Analysis 
-As a result of 
+## Conclusion
+The sentiment of 24 names were analyzed with AWS Comprehend. As a result, all 24 names, regardless of its traditional gender associations, were found to have a neutral sentiment with almost 0.99 confidence. We recognized that if the corpus captured more opinions instead of definitions and origins the results might reflect cultural and social sentiment associated with each names. 
 
 
 ## Reference
